@@ -1,0 +1,5 @@
+bb.txt
+ccc.txt
+LICENSE
+README.md
+trzeciplik.txt
