@@ -1,8 +1,0 @@
-LICENSE
-README.md
-trzeciplik.txt
-
-
-Tadam
-coś tam znowu
-coś tam po raz2

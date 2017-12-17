@@ -1,4 +1,0 @@
-bb.txt
-LICENSE
-README.md
-trzeciplik.txt
